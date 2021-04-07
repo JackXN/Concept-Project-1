@@ -26,7 +26,6 @@
     padding: 8px 20px;
     border: 1px solid var(--primary);
     transition: all 0.3s ease-out;
-
 }
 
 .btn--medium {
@@ -62,7 +61,7 @@
 
 }
 
-.btn--large:hover, .btn--medium:hoverm .btn--mobile:hover {
+.btn--large:hover, .btn--medium:hover .btn--mobile:hover {
     transition: all 0.3s ease-out;
     background: #fff;
     color: #24242424;
@@ -113,5 +112,6 @@
     padding: 8px 16px;
     height: 100%;
     width: 100%;
-    
+
+
 }
